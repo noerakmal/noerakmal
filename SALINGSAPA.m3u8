@@ -1,36 +1,64 @@
+#EXTM3U
 
-#EXTINF:-1 tvg-id="Lokal" group-title="# MNC INDOSAT HIFI NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1",RCTI
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e99365416ee447a90ed5a26e0496e53:946af32969e1f03c5e44e68882dfd196
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="# MNC INDOSAT HIFI NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2",MNC TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea82a4143e4c40938849c2ca76b650be:2df49fc5451932bce84b5efaa8aad24b
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="# MNC INDOSAT HIFI NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15710b213eac4560914d552f44f4c661:2c1a50fe6cc34658317d158206103bdd
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-#EXTINF:-1 tvg-id="Lokal" group-title="# MNC INDOSAT HIFI NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4",iNews
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5626f45351f44ee59423ee73d3b22706:56211b4d3855ebbea2d7134dd4098a1c
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Lokal" group-title="# MNC INDOSAT HIFI NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" ch-number="5",SindoNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=1829b64416f845948969d6d7f4e92efd:afabf604f78c83ed1c0ec5ccc136661a
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://tvku.family/Vis1/index.mpd?id=5
-#EXTINF:-1 tvg-id="Lokal" group-title="# MNC INDOSAT HIFI NATIONAL TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6",Trans TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1ecdd78835d4f1781ecfffcb498ff98:aec4345d8240d57bf78d3c68c1ce20aa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTINF:-1 group-title="DLHD 24/7",CBC CA
+https://dlive.sx/watch.php?id=832
+
+#EXTINF:-1 group-title="DLHD 24/7",Cartoon Network
+https://dlive.sx/watch.php?id=339
+
+#EXTINF:-1 group-title="DLHD 24/7",Cinemax USA
+https://dlive.sx/watch.php?id=374
+
+#EXTINF:-1 group-title="DLHD 24/7",Discovery Family
+https://dlive.sx/watch.php?id=657
+
+#EXTINF:-1 group-title="DLHD 24/7",Disney XD
+https://dlive.sx/watch.php?id=314
+
+#EXTINF:-1 group-title="DLHD 24/7",Disney JR
+https://dlive.sx/watch.php?id=652
+
+#EXTINF:-1 group-title="DLHD 24/7",HBO USA
+https://dlive.sx/watch.php?id=321
+
+#EXTINF:-1 group-title="DLHD 24/7",HBO Hits USA
+https://dlive.sx/watch.php?id=689
+
+#EXTINF:-1 group-title="DLHD 24/7",HBO Comedy USA
+https://dlive.sx/watch.php?id=690
+
+#EXTINF:-1 group-title="DLHD 24/7",HBO Drama USA
+https://dlive.sx/watch.php?id=693
+
+#EXTINF:-1 group-title="DLHD 24/7",HBO Movies USA
+https://dlive.sx/watch.php?id=694
+
+#EXTINF:-1 group-title="DLHD 24/7",Nicktoons
+https://dlive.sx/watch.php?id=649
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime USA
+https://dlive.sx/watch.php?id=333
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime 2 USA (SHO2) USA
+https://dlive.sx/watch.php?id=792
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime Showcase USA
+https://dlive.sx/watch.php?id=793
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime Extreme USA
+https://dlive.sx/watch.php?id=794
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime Family Zone (SHO Family Zone) USA
+https://dlive.sx/watch.php?id=795
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime Next (SHO Next) USA
+https://dlive.sx/watch.php?id=796
+
+#EXTINF:-1 group-title="DLHD 24/7",Showtime Women USA
+https://dlive.sx/watch.php?id=797
+
+#EXTINF:-1 group-title="DLHD 24/7",TMC Channel USA
+https://dlive.sx/watch.php?id=698
+
+#EXTINF:-1 group-title="DLHD 24/7",TeenNick
+https://dlive.sx/watch.php?id=650
